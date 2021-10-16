@@ -1,0 +1,189 @@
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: helvetica neue,helvetica,arial,sans-serif;
+}
+.logo{
+   width: 50%;
+   padding-top: 33px;
+   float: left;
+}
+.login{
+    width: 50%;
+    padding-top: 20px;
+    float: left;
+}
+.logo-text{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 143px;
+    margin-top: 300px;
+}
+.login-label{
+    color: white; 
+    font-size : 11px; 
+    padding-bottom: 10px;  
+}
+.login-content{
+    margin-left: 118px;   
+}
+.login{
+    padding-top: 10px;
+}
+.loginbutton{
+    background-color: #3b5998;
+    font: white; 
+     border-style: none;  
+}
+.forgotten{
+    font-size: 11px;
+    color: #fff;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-but{
+    background: #4267b2;
+    color: #fff;
+    border-color: #4267b2;
+    height: 20px;
+    cursor: pointer;    
+}
+.sub-but:hover{
+    background:#39548f;
+}
+.left-body{
+    width: 47%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 0px;
+    font-weight: bold;
+    height: 450px;
+}
+.right-body{
+    width: 38%;
+    float: left;
+    margin-left:1%;
+    height: 450px;
+}
+.body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 450px;
+}
+.image{
+    width: 550px;
+}
+.para{
+    font-size: 20px;
+    color:#3b5998;
+    padding-top: 52px;
+}
+
+.hd2{
+    font-size: 15px;
+    margin-bottom: 18px;
+    margin-top: -2%;
+    font-weight: bold;
+}
+.name{
+    height: 22px;
+    border-radius: 5px;
+    width: 33%;  
+    border-style:solid;    
+}
+.pas{
+    height: 22px;
+    border-radius: 5px;
+    width: 68%;
+    margin-top: -30%;
+    border-style:solid;
+}
+.birth{
+    font-size: 13px;
+    font-weight: bold;
+    color: darkgray;      
+}
+.date{
+    margin-top: 8px;
+    background-color: #fff;
+    border:solid 1px;
+    border: #fff;
+}
+.que{
+    border-radius: 50%;
+    background-color:  #696969;
+    color: #fff;
+    font-weight: bold;
+    border-color: none;
+    text-decoration: none;
+}
+.sex{
+    font-size: 13px;
+    font-weight: bold;
+    color: darkgray;
+}
+.gen{
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.policy{
+    font-size: 9px;    
+}
+.terms{
+    text-decoration: none;
+    font-size: 10px;
+}
+.sign-but{
+    background-color: #4caf50;
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid #3b6e22;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 20px;
+    width: 150px;
+    height: 35px;
+}
+.page{
+    font-size: 11px;
+    padding-top: 5px;
+}
+.brand{
+    text-decoration: none;
+}
+.footer{
+    width: 100%;
+    background-color:#fff;
+    height: 174px;
+    float: left;
+}
+.footer-content{
+    position: relative;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.end{
+    font-size: 10px;
+}
+.lan{
+    font: 10px;
+    padding-top: 3%;    
+}
+.dif-lan{
+    text-decoration: none;
+    color: #385898;
+}
+.extra{
+    text-decoration: none;
+    color: #385898;    
+}
+.line{
+    color:#fff;
+}
